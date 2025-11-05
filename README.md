@@ -63,6 +63,3 @@ ZAKTUALIZOWANO: config/settings.ini
 | **ZAKTUALIZOWANO** | Żółty | Plik istniał, ale jego suma kontrolna była inna (został zmieniony) i został nadpisany. |
 | **POMINIĘTO** | Niebieski | Plik istniał i jego suma kontrolna była identyczna. |
 | **DRY-RUN** | Magenta | Wskazuje, że operacja jest symulowana (tylko w trybie `--dry-run`). |
-
----
-*Autor: Manus AI*
